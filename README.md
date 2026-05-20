@@ -1,2 +1,5 @@
-# Blockchain-network-
-Basic Block chain network for codtech intership 
+###Intern Details
+**Name:** Ramya Sri Pamidi  
+**Intern ID:** CITS1304
+**Domain:** Blockchain Development  
+**Internship:** CodTech IT Solution
